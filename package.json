@@ -12,7 +12,7 @@
   "dependencies": {
     "ejs": "^3.0.1",
     "express": "^4.17.1",
-    "mongodb": "^2.2.36",
+    "mongodb": "^3.1.13",
     "multiparty": "^4.2.1"
   }
 }
